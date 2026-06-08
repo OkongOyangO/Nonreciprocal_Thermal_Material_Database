@@ -1,6 +1,6 @@
 # First-Principles Dielectric & Nonreciprocity Database for Magnetic Topological Materials
 
-**Live viewer:** https://okongoyango.github.io/NTP-ENZ-Audit-Viewer/
+**Live viewer:** https://okongoyango.github.io/Nonreciprocal_Thermal_Material_Database/
 
 Companion data repository for:
 
