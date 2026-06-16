@@ -4,7 +4,7 @@
 
 Companion data repository for:
 
-> Yiyang Jiang, Yufei Zhao, Linxiao Zhu, and Binghai Yan, "Designing Strong and Broadband Nonreciprocal Thermal Radiation in Magnetic Topological Materials" (submitted, 2026).
+> Yiyang Jiang, Yufei Zhao, Linxiao Zhu, and Binghai Yan, "Designing Strong and Broadband Nonreciprocal Thermal Radiation in Magnetic Topological Materials," [arXiv:2606.14861](https://arxiv.org/abs/2606.14861) (2026).
 
 ## Overview
 
@@ -83,4 +83,4 @@ All calculations use a phenomenological broadening η = 0.01 eV representing the
 
 If you use this database, please cite:
 
-> Yiyang Jiang, Yufei Zhao, Linxiao Zhu, and Binghai Yan, "Designing Strong and Broadband Nonreciprocal Thermal Radiation in Magnetic Topological Materials," arXiv:XXXX.XXXXX (2026).
+> Yiyang Jiang, Yufei Zhao, Linxiao Zhu, and Binghai Yan, "Designing Strong and Broadband Nonreciprocal Thermal Radiation in Magnetic Topological Materials," [arXiv:2606.14861](https://arxiv.org/abs/2606.14861) (2026).
