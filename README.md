@@ -71,9 +71,10 @@ Open `index.html` in any modern browser — no server, no build step, no depende
 
 - **Heatmap** — rows: materials; columns: chemical potential μ; cell color: ENZ-audit category. Click any cell to load the spectra for that (material, μ) point.
 - **Dielectric spectra panel** — Re ε_xx, Im ε_xx, Re/Im ε_xz vs photon energy ω.
-- **Nonreciprocity panel** — Δ(ω, θ) = e(ω, θ) − α(ω, θ) for selected emission angles.
+- **Nonreciprocity panel** — Δ(ω, θ) = e(ω, θ) − α(ω, θ) for the selected emission angles.
 - **Category filter** — show/hide MATCH / MULTI / NO_ENZ / INSUL points.
-- **Angle selector** — overlay multiple θ curves.
+- **Angle selector** — overlay all θ curves (default) or isolate a single emission angle θ in the Δ(ω, θ) panel.
+- **Curve readout** — hover any Δ(ω, θ) curve to read off the exact (ω, Δ) coordinates (and θ) at that point via a snap-to-curve tooltip and crosshair marker.
 
 ## Computational parameters
 
